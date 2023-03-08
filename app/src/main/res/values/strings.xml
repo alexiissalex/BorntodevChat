@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">BorntodevChat</string>
+    <string name="borntodev_chat">BorntoDev Chat</string>
+    <string name="login_button">ALREADY HAVE ACCOUNT</string>
+    <string name="signup_button">Create account</string>
+    <string name="login">Login</string>
+    <string name="enter_email">Enter E-mail</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_display_name">Enter Display Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="signup_label">Create account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="setting">Setting</string>
+    <string name="logout">Logout</string>
+    <string name="change_picture">CHANGE PICTURE</string>
+    <string name="change_status">CHANGE STATUS</string>
+    <string name="status">Status</string>
+    <string name="update_status">UPDATE STATUS</string>
+    <string name="name">Name</string>
+    <string name="send_message">Send Message</string>
+</resources>

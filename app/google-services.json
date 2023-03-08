@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "162044023506",
+    "firebase_url": "https://borntodevchat-b6af5-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "borntodevchat-b6af5",
+    "storage_bucket": "borntodevchat-b6af5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:162044023506:android:e135f4b518e67c0af2d30b",
+        "android_client_info": {
+          "package_name": "zeegun.borntodev.borntodevchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "162044023506-14ss6h1adeeeqthn4lbr6qvel456a5jl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq16G-PVP7So729-_pJqV8_7m9-JSb4aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "162044023506-14ss6h1adeeeqthn4lbr6qvel456a5jl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
